@@ -2,3 +2,6 @@ filerepository1
 
 modificato su repository locale 
 si deve importare su github
+
+modificato su github 
+si deve importare in locale
